@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c749ec6631062c84f9cb1f6d61d19240, type: 3}
+  m_Name: NeighborData_anh_minh
+  m_EditorClassIdentifier: Assembly-CSharp::BalconyGarden.NeighborData
+  neighborId: anh_minh
+  neighborName: Anh Minh
+  avatarSprite: {fileID: 21300000, guid: df09e463a72e9dc4d97ad7909f4d52f5, type: 3}
+  bio: "Sinh vi\xEAn ki\u1EBFn tr\xFAc ph\xF2ng b\xEAn, b\u1EADn l\xE0m \u0111\u1ED3
+    \xE1n nh\u01B0ng r\u1EA5t m\xEA c\xE0 chua t\u01B0\u01A1i."
+  favoritePlantIds:
+  - ca_chua
+  - cai_xanh
+  storyDialogues:
+  - requiredFriendship: 0
+    dialogueText: "C\u1EA3m \u01A1n nh\xE9! T\u1ED1i nay m\xECnh c\xF3 c\xE0 chua
+      l\xE0m m\u1EF3 \xDD r\u1ED3i!"
+  - requiredFriendship: 30
+    dialogueText: "\u0110\u1ED3 \xE1n th\u1EE9c \u0111\xEAm m\xE0 c\xF3 rau c\u1EE7
+      t\u01B0\u01A1i c\u1EE7a b\u1EA1n th\xEC \u0111\u1EC9nh ch\xF3p!"
+  - requiredFriendship: 60
+    dialogueText: "B\u1EA1n thi\u1EBFt k\u1EBF ban c\xF4ng xanh n\xE0y tr\xF4ng c\xF3
+      gu l\u1EAFm \u0111\xF3!"

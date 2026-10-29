@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c749ec6631062c84f9cb1f6d61d19240, type: 3}
+  m_Name: NeighborData_chi_hoa
+  m_EditorClassIdentifier: Assembly-CSharp::BalconyGarden.NeighborData
+  neighborId: chi_hoa
+  neighborName: "Ch\u1ECB Hoa"
+  avatarSprite: {fileID: 21300000, guid: 223757fb7c0c3f940b12d0dcfdc728d3, type: 3}
+  bio: "Ch\u1EE7 m\u1ED9t ti\u1EC7m hoa nh\u1ECF \u1EDF g\xF3c ph\u1ED1, lu\xF4n
+    s\u0103n l\xF9ng nh\u1EEFng gi\u1ED1ng hoa \u0111\u1ED9c l\u1EA1."
+  favoritePlantIds:
+  - cuc_vang
+  - huong_duong
+  - hoa_hong
+  - cuc_cam
+  - hoa_hong_xanh
+  storyDialogues:
+  - requiredFriendship: 0
+    dialogueText: "Ch\u1ECB r\u1EA5t th\xEDch c\xE1ch em ch\u0103m hoa, b\xF4ng n\xE0o
+      c\u0169ng \u0111\u1EC1u v\xE0 th\u1EAFm."
+  - requiredFriendship: 30
+    dialogueText: "Em lai t\u1EA1o \u0111\u01B0\u1EE3c gi\u1ED1ng hoa m\u1EDBi ch\u01B0a?
+      Ch\u1ECB h\xE1o h\u1EE9c qu\xE1!"
+  - requiredFriendship: 60
+    dialogueText: "Nh\u1EEFng b\xF4ng h\u1ED3ng xanh c\u1EE7a em l\xE0 ni\u1EC1m
+      m\u01A1 \u01B0\u1EDBc c\u1EE7a ti\u1EC7m ch\u1ECB \u0111\u1EA5y!"

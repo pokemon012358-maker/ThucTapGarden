@@ -1,0 +1,67 @@
+{
+  "method": "ChatGPT built-in image generation",
+  "expansion_prompts": [
+    {
+      "id": "mango",
+      "type": "orchard",
+      "prompt": "Use case: stylized-concept. Asset type: original cozy farming game orchard growth sprite sheet. Image 1 is the existing farm pack STYLE REFERENCE ONLY. Match its soft warm painterly 2.5D shading, rounded appealing shapes, leafy green color palette and top-left light. Produce a wide landscape sheet with EXACTLY SEVEN well-separated cutout sprites: FIVE growth sprites left to right across the top row, then TWO inventory icons centered in the bottom row. The mature, flowering and fruit-bearing versions share identical structure, trunk position, canopy outline and scale; only blossoms and fruit change. Early stages are naturally smaller but ground contact alignment is consistent. Orthographic isometric 30-degree elevation. All planting sprites are STANDALONE PLANT-ONLY silhouettes: no soil, no grass, no bases, no platform, no ground shadow outside silhouettes. Keep every sprite fully inside the sheet with generous transparent outer margins and gutters; tree canopies must not overlap neighboring sprites. Static PNG sprite art, not animation. True alpha transparency outside subjects, no painted backdrop, no checkerboard, no writing, no numerals, no labels, no watermarks, no existing game branding. A tropical mango tree with warm brown trunk, lush compact rounded canopy of recognizable long lance-shaped dark-green leaves. Five left-to-right stages: a tiny grafted seedling; a young short tree with branching trunk; a mature compact tree with no fruit; the SAME mature tree structure with cream-colored flower panicles; the SAME mature tree with several golden-yellow oval mango fruits nestled naturally in its canopy. Bottom-left inventory icon a cream paper nursery bag bearing a small mango sapling illustration and no text. Bottom-right harvested icon one plump golden-yellow mango with a small green leaf. The ripe tree must read as a mango tree, not an apple tree. No giant fruit and no ground mounds.",
+      "file": "source_sheets/mango.png"
+    },
+    {
+      "id": "apple",
+      "type": "orchard",
+      "prompt": "Use case: stylized-concept. Asset type: original cozy farming game orchard growth sprite sheet. Image 1 is the existing farm pack STYLE REFERENCE ONLY. Match its soft warm painterly 2.5D shading, rounded appealing shapes, leafy green color palette and top-left light. Produce a wide landscape sheet with EXACTLY SEVEN well-separated cutout sprites: FIVE growth sprites left to right across the top row, then TWO inventory icons centered in the bottom row. The mature, flowering and fruit-bearing versions share identical structure, trunk position, canopy outline and scale; only blossoms and fruit change. Early stages are naturally smaller but ground contact alignment is consistent. Orthographic isometric 30-degree elevation. All planting sprites are STANDALONE PLANT-ONLY silhouettes: no soil, no grass, no bases, no platform, no ground shadow outside silhouettes. Keep every sprite fully inside the sheet with generous transparent outer margins and gutters; tree canopies must not overlap neighboring sprites. Static PNG sprite art, not animation. True alpha transparency outside subjects, no painted backdrop, no checkerboard, no writing, no numerals, no labels, no watermarks, no existing game branding. An apple tree with warm brown woody trunk, compact rounded crown, small rounded serrated green leaves and a few visible branches. Five left-to-right stages: tiny apple sapling; young short apple tree; mature compact tree with no fruit; the SAME mature tree structure with white blossoms touched pale pink; the SAME mature tree with several bright-red apples naturally hanging in its canopy. Bottom-left inventory icon a cream paper nursery bag with a small apple sapling illustration and no text. Bottom-right harvested icon one red apple with short brown stem and green leaf. No oversized apples and no soil mounds.",
+      "file": "source_sheets/apple.png"
+    },
+    {
+      "id": "banana",
+      "type": "orchard",
+      "prompt": "Use case: stylized-concept. Asset type: original cozy farming game orchard growth sprite sheet. Image 1 is the existing farm pack STYLE REFERENCE ONLY. Match its soft warm painterly 2.5D shading, rounded appealing shapes, leafy green color palette and top-left light. Produce a wide landscape sheet with EXACTLY SEVEN well-separated cutout sprites: FIVE growth sprites left to right across the top row, then TWO inventory icons centered in the bottom row. The mature, flowering and fruit-bearing versions share identical structure, trunk position, canopy outline and scale; only blossoms and fruit change. Early stages are naturally smaller but ground contact alignment is consistent. Orthographic isometric 30-degree elevation. All planting sprites are STANDALONE PLANT-ONLY silhouettes: no soil, no grass, no bases, no platform, no ground shadow outside silhouettes. Keep every sprite fully inside the sheet with generous transparent outer margins and gutters; tree canopies must not overlap neighboring sprites. Static PNG sprite art, not animation. True alpha transparency outside subjects, no painted backdrop, no checkerboard, no writing, no numerals, no labels, no watermarks, no existing game branding. A banana PLANT, botanically a large herb with a thick green layered pseudostem and broad long arching paddle-shaped leaves, NOT a woody branched tree. Five left-to-right stages: a small banana sucker; a young banana plant with three leaves; a mature compact banana plant without fruit; the SAME mature plant with a drooping dark-red-purple banana blossom; the SAME mature plant with a hanging bunch of curved ripe yellow bananas below its leaves. Bottom-left inventory icon a cream paper nursery bag bearing a small banana sucker illustration and no text. Bottom-right harvested icon a small neat bunch of three curved ripe yellow bananas. No mango/apple branches or woody trunk, no soil mound.",
+      "file": "source_sheets/banana.png"
+    },
+    {
+      "id": "plot_tiles",
+      "type": "tiles",
+      "prompt": "Use case: stylized-concept. Asset type: original cozy farm isometric PLOT TILE sprite sheet. Image 1 is the existing farm pack STYLE REFERENCE ONLY: warm painterly 2.5D surfaces, earthy browns and fresh leafy greens. Create EXACTLY EIGHT flat diamond-shaped ground tiles in a spacious regular FOUR-column by TWO-row grid on true transparent background. Every tile has identical diamond footprint, exact intended width:height ratio 2:1, flat orthographic isometric top surface, no extruded slab or side wall, no bevel thickness, no black outlines, no cast shadow outside diamond. Four sharp diamond corners, straight clean edges; texture goes all the way to each edge, no transparent padding inside each diamond. Top row left-to-right: (1) short lush green GRASS surface; (2) plain brown UNTILLED SOIL surface; (3) dry brown TILLED SOIL with five shallow parallel furrows; (4) darker moist WATERED TILLED SOIL with the same furrow orientation. Bottom row left-to-right: (5) TILLED soil with several small planted seed dots, no sprouts; (6) rich dark FERTILIZED SOIL with subtle small compost flecks; (7) compact sandy DIRT PATH surface; (8) a path surface of rounded gray-beige STONE PAVERS fitted together. No plants, bushes, trees, fences, characters, UI or tools. Crisp cutout silhouettes separated by wide clear transparent gutters and generous outer margins. Each tile must be one connected diamond surface with no holes and no detached decorations. No text, labels, numbers, grid lines, background scene, logos, watermarks or checkerboard. Static original PNG artwork, designed to be exported and standardized as 512 by 256 diamond ground tiles.",
+      "file": "source_sheets/plot_tiles.png"
+    },
+    {
+      "id": "cucumber",
+      "type": "crop",
+      "prompt": "undefinedCucumber: germinating cucumber seed with tiny root; broad two-leaf sprout; short young cucumber vine with lobed heart-shaped green leaves; compact vine with yellow flower and tiny green cucumber; mature short compact vine with two long dark-green cucumbers resting beside its leaves. No trellis. Harvest icon is one dark-green elongated cucumber with subtle bump texture. No floating vines or soil base.",
+      "file": "source_sheets/cucumber.png"
+    },
+    {
+      "id": "lettuce",
+      "type": "crop",
+      "prompt": "undefinedLettuce: germinating tiny seed with short emerging root; small two-leaf sprout; low lettuce rosette with three wavy leaves; larger loose open leafy lettuce rosette; mature loose-leaf green lettuce with upright ruffled leaves and pale center, distinctly open rather than a tightly round cabbage head. Harvest icon is one fresh loose-leaf lettuce head with ruffled leaves.",
+      "file": "source_sheets/lettuce.png",
+      "repair_prompt": "Use case: precise-object-edit. Edit the supplied lettuce crop sprite sheet. Remove ONLY every brown soil mound under the five growth stages in the top row, exposing transparent background and leaving a small natural stem or root base where necessary. Preserve the five lettuce stages themselves, their progression, relative scale, warm painterly artwork and separate top-row positions. Keep the two lower inventory icons (planting packet and harvested lettuce) unchanged. Exactly SEVEN disconnected sprites total. No ground, soil, platform, shadows or backgrounds under any plant. Increase empty transparent gutter between the fourth and fifth plant just enough to keep their leaves separate; keep full outer margins. Actual alpha transparency, no text, no captions, no checkerboard pattern. The plants must be independent silhouettes that can be layered over a separate farm ground tile."
+    },
+    {
+      "id": "sweet_potato",
+      "type": "crop",
+      "prompt": "undefinedSweet potato: small planted slip cutting with one leaf and tiny root; small rooted slip with two heart-shaped leaves; young short vine with several heart-shaped leaves; compact leafy vine with a few pale lavender trumpet flowers; mature compact vine with green and yellowing heart-shaped leaves and one small attached reddish-purple tuber visible at ground contact as a stylized harvest cue. No soil mound. Harvest icon is two reddish-purple sweet potatoes, one cut at the end revealing orange flesh, combined into one icon. Planting packet illustrated with sweet potato slip.",
+      "file": "source_sheets/sweet_potato.png"
+    },
+    {
+      "id": "peanut",
+      "type": "crop",
+      "prompt": "undefinedPeanut: germinating tan peanut kernel with short emerging root; small seedling with paired oval leaves; compact young peanut plant with sets of four oval leaflets; larger compact plant with small yellow flowers and downward curved pegs at its base; mature low peanut plant with some yellowing leaves and a small attached cluster of tan peanut pods at root base as a stylized harvest cue, no soil. Harvest icon is one tan textured peanut shell partly open with two pinkish-tan kernels visible, all as one connected icon. No peanuts hanging high in tree branches.",
+      "file": "source_sheets/peanut.png",
+      "repair_prompt": "Use case: precise-object-edit. Edit the supplied peanut growth sheet to ADD ONE missing inventory item: a cream paper planting packet with a little illustration of a germinating peanut seed, no writing. Place it in the empty BOTTOM LEFT area, fully below the growth-row roots, to the left of the existing bottom harvest peanut icon. Keep all five existing plant-only growth stages and the existing harvested peanut icon unchanged. Result has EXACTLY SEVEN disconnected sprites: five growth stages in top row, packet lower left, harvested peanut lower middle/right. Packet full silhouette within canvas, generous gaps from root tips and harvested icon. Do not add soil to any growth stage. Preserve existing warm soft painterly look and alpha transparency outside every sprite. No labels, no titles, no numerals, no scene, no checkerboard texture."
+    },
+    {
+      "id": "bell_pepper",
+      "type": "crop",
+      "file": "source_sheets/bell_pepper.png",
+      "prompt": "undefinedBell pepper growth stages with pointed smooth leaves, white flowers, red bell peppers, planting packet and harvest icon."
+    },
+    {
+      "id": "chili",
+      "type": "crop",
+      "file": "source_sheets/chili.png",
+      "prompt": "undefinedChili growth stages with narrow pointed leaves, white flowers, red chilies, planting packet and harvest icon."
+    }
+  ]
+}

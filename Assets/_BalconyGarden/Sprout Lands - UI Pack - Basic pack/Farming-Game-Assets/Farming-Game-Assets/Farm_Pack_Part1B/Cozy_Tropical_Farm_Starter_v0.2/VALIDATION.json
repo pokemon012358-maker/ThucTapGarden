@@ -1,0 +1,30 @@
+{
+  "asset_count": 178,
+  "new_asset_count": 71,
+  "categories": {
+    "crops": 90,
+    "items": 42,
+    "soil": 3,
+    "tools": 4,
+    "decorations": 4,
+    "ui": 12,
+    "orchard": 15,
+    "tiles": 8
+  },
+  "crop_count": 18,
+  "orchard_count": 3,
+  "plot_tile_count": 8,
+  "growth_atlas_count": 21,
+  "atlas_frames_matched": 105,
+  "rgba_transparency": "passed",
+  "non_tile_padding_at_least_8_pixels": "passed",
+  "original_107_pngs_unchanged": "passed",
+  "tile_common_2_to_1_geometry": "passed",
+  "four_by_four_tile_geometry_coverage": "passed, no gaps",
+  "demo_resource_paths": "passed for all assets",
+  "demo_interaction_logic": "passed in DOM harness for all 21 species",
+  "orchard_regrowth": "passed",
+  "tile_selector": "passed",
+  "browser_rendering": "not tested; browser runtime unavailable",
+  "native_engine_imports": "not tested"
+}

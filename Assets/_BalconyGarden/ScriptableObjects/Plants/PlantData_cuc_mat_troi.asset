@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67490eb53eebd174995a448c58a95723, type: 3}
+  m_Name: PlantData_cuc_mat_troi
+  m_EditorClassIdentifier: Assembly-CSharp::BalconyGarden.PlantData
+  plantId: cuc_mat_troi
+  plantName: "B\xED Ng\xF4"
+  plantType: 1
+  description: "B\xED Ng\xF4 qu\xFD hi\u1EBFm gi\u1EEFa Khoai T\xE2y v\xE0 C\xE0
+    R\u1ED1t."
+  growthTimeSeconds: 2400
+  waterConsumptionRate: 0.005
+  preferredSun: 2
+  buyPrice: 90
+  sellPrice: 280
+  unlockLevel: 7
+  xpReward: 220
+  harvestYield: 2
+  seedPacketSprite: {fileID: -6448768832887601747, guid: 73ef29cbae25bd44f8b8a70528d03106, type: 3}
+  stageSeedSprite: {fileID: -6701324533551732697, guid: 39976242fbfbf6e4e8d0eea6e2fe47de, type: 3}
+  stageSproutSprite: {fileID: -5049194309148992430, guid: 9f28939e375123a42b79e92aae2506c4, type: 3}
+  stageMatureSprite: {fileID: -767757075647726021, guid: 9d26c142ca10a9b4a8daa9c09fb724e2, type: 3}
+  stageRipeSprite: {fileID: -2055414901900647247, guid: ec5981111930bf64d9e5b86c52ee550a, type: 3}
+  stageWitheredSprite: {fileID: -4743061631682076860, guid: 9e38d52fae172b64c9f23f98ba7bfe0c, type: 3}
+  cropItemSprite: {fileID: 5899845494056085776, guid: cc26e06efb3a9c44f9001942647e8564, type: 3}

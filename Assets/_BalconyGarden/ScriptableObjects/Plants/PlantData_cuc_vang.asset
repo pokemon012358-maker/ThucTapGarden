@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67490eb53eebd174995a448c58a95723, type: 3}
+  m_Name: PlantData_cuc_vang
+  m_EditorClassIdentifier: Assembly-CSharp::BalconyGarden.PlantData
+  plantId: cuc_vang
+  plantName: "Khoai T\xE2y"
+  plantType: 1
+  description: "Khoai t\xE2y ng\u1ECDt ng\xE0o"
+  growthTimeSeconds: 300
+  waterConsumptionRate: 0.007
+  preferredSun: 2
+  buyPrice: 10
+  sellPrice: 28
+  unlockLevel: 1
+  xpReward: 30
+  harvestYield: 2
+  seedPacketSprite: {fileID: -1526734872680488354, guid: f8f97986667873d4586ab186e1eaa7e8, type: 3}
+  stageSeedSprite: {fileID: -4667918268758124246, guid: 1cc83ce0825a25c479058708b2b34c59, type: 3}
+  stageSproutSprite: {fileID: -1553724383780384936, guid: eebbd130ecdd62e49ab3e4384a72f084, type: 3}
+  stageMatureSprite: {fileID: 2081477881628152863, guid: 64c15ac9b939b004fa111b4aa5971d57, type: 3}
+  stageRipeSprite: {fileID: -7586103182559127987, guid: c23b03a2abc1d0b479e548f2f0a837ea, type: 3}
+  stageWitheredSprite: {fileID: -4743061631682076860, guid: 9e38d52fae172b64c9f23f98ba7bfe0c, type: 3}
+  cropItemSprite: {fileID: -8758240103339121103, guid: 64a7cb2e57613e543aa31c5dca98a954, type: 3}

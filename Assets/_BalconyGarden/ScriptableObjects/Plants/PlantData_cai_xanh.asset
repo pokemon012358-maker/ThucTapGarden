@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67490eb53eebd174995a448c58a95723, type: 3}
+  m_Name: PlantData_cai_xanh
+  m_EditorClassIdentifier: Assembly-CSharp::BalconyGarden.PlantData
+  plantId: cai_xanh
+  plantName: "C\u1EA3i Xanh"
+  plantType: 0
+  description: "C\u1EA3i xanh t\u01B0\u01A1i, gi\xF2n r\u1EA5t gi\xE0u vitamin v\xE0
+    d\u1EC5 tr\u1ED3ng."
+  growthTimeSeconds: 120
+  waterConsumptionRate: 0.009
+  preferredSun: 1
+  buyPrice: 5
+  sellPrice: 12
+  unlockLevel: 1
+  xpReward: 15
+  harvestYield: 2
+  seedPacketSprite: {fileID: 3207231450061170423, guid: 108bc3cb02229364a911c6d5b38a3593, type: 3}
+  stageSeedSprite: {fileID: -8438762345698630136, guid: d7ee72cad92df54448cee4f54755d844, type: 3}
+  stageSproutSprite: {fileID: -7519741168565825166, guid: 73f74668d071ad94582a643762227467, type: 3}
+  stageMatureSprite: {fileID: 1669650551819322237, guid: cc8b977f284d4124f85a7810be88dbbf, type: 3}
+  stageRipeSprite: {fileID: -5946511439302450187, guid: a46d5f9750736f04a97bdf141c1d8212, type: 3}
+  stageWitheredSprite: {fileID: -4743061631682076860, guid: 9e38d52fae172b64c9f23f98ba7bfe0c, type: 3}
+  cropItemSprite: {fileID: -1378348028555059826, guid: f1360cd309374474ebaa04fe6fae89dd, type: 3}

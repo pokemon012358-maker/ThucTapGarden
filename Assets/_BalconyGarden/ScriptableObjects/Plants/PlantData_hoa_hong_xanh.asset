@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67490eb53eebd174995a448c58a95723, type: 3}
+  m_Name: PlantData_hoa_hong_xanh
+  m_EditorClassIdentifier: Assembly-CSharp::BalconyGarden.PlantData
+  plantId: hoa_hong_xanh
+  plantName: "D\xE2u T\xE2y"
+  plantType: 1
+  description: "Gi\u1ED1ng D\xE2u T\xE2y truy\u1EC1n thuy\u1EBFt lai t\u1EA1o t\u1EEB
+    L\xFAa M\xEC v\xE0 C\xE0 R\u1ED1t."
+  growthTimeSeconds: 4500
+  waterConsumptionRate: 0.004
+  preferredSun: 0
+  buyPrice: 150
+  sellPrice: 500
+  unlockLevel: 10
+  xpReward: 450
+  harvestYield: 4
+  seedPacketSprite: {fileID: 8355355616506607596, guid: 27e98237fbe17f94b906aabb4b9513ae, type: 3}
+  stageSeedSprite: {fileID: 6855882936253764910, guid: bd9af9436cb0002478fde85fc5620b7b, type: 3}
+  stageSproutSprite: {fileID: -7063664527587651881, guid: bfe191b0dfff7054b844191a5bd7ec84, type: 3}
+  stageMatureSprite: {fileID: -3428229919838896916, guid: dc0a1fd5aa852404badaccbe99f44d8f, type: 3}
+  stageRipeSprite: {fileID: -4959916989083357904, guid: 583f6c1d8e13ecb4494c318a66d932d4, type: 3}
+  stageWitheredSprite: {fileID: -4743061631682076860, guid: 9e38d52fae172b64c9f23f98ba7bfe0c, type: 3}
+  cropItemSprite: {fileID: -6035843720510755684, guid: 28c74ee295b5e514eae2a61166a48684, type: 3}

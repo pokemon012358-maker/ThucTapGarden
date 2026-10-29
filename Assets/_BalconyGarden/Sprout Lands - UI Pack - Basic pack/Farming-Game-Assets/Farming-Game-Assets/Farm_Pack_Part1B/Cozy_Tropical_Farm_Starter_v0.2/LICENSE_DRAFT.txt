@@ -1,0 +1,14 @@
+COZY TROPICAL FARM STARTER — PROPOSED BUYER USAGE TERMS
+Publisher draft: review and adopt these terms under your publisher identity before selling. This file does not establish an already-published commercial offer.
+
+When the publisher supplies this pack under these terms, the buyer may use, modify, resize and combine the included artwork in personal or commercial games, applications, videos and promotional materials. Credit is optional unless the publisher's finalized terms say otherwise.
+
+The buyer may distribute the artwork as embedded resources in their finished products. The buyer may share working copies with project collaborators only as necessary for the same project, with those collaborators following the same restrictions.
+
+The buyer may not sell, sublicense, publish or redistribute the raw or modified artwork as a standalone asset collection, stock library, template resource library or competing download pack. A finished game or application incorporating these assets is permitted.
+
+This is a nonexclusive usage permission. Artwork was created with generative AI and then prepared for export. Do not represent the source artwork as exclusively yours, guaranteed unique, or wholly hand-drawn. No promise is made that every AI-generated element qualifies for copyright protection. Rights granted apply only to rights the publisher can lawfully grant.
+
+The pack is supplied as-is. No revenue, marketplace acceptance, fitness for a particular engine, or native-engine compatibility testing is promised. These proposed terms are provided for publisher review and are not legal advice.
+
+The demo code may be used and modified as an integration example with this pack. Third-party libraries used to prepare the exports are not bundled.
